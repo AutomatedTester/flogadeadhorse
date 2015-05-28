@@ -1,0 +1,15 @@
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container {
+  margin: auto;
+  padding: inherit;
+  width:800px;
+}
+
+.subcontainer {
+  margin: auto;
+  padding: inherit;
+  width:500px;
+}
